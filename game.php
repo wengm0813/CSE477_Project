@@ -24,11 +24,15 @@
     <div class="game">
 
         <div class="row">
-            <div class="cell"></div><div class="cell"></div><div class="cell"></div>
+            <div class="cell"><img src="images/valve-closed.png"><img src="images/straight-h.png"></div>
+            <div class="cell"></div>
+            <div class="cell"></div>
         </div>
 
         <div class="row">
-            <div class="cell"></div><div class="cell"></div><div class="cell"></div>
+            <div class="cell"><img src="images/valve-closed.png"></div>
+            <div class="cell"></div>
+            <div class="cell"></div>
         </div>
     </div>
     <p>

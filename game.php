@@ -24,15 +24,29 @@
     <div class="game">
 
         <div class="row">
-            <div class="cell"><img src="images/valve-closed.png"><img src="images/straight-h.png"></div>
+            <div class="cell"><img src="images/valve-closed.png"></div><div class = "cell"><img src="images/straight-h.png"></div><div class="cell"><img src="images/straight-h.png"></div><div class = "cell"><img src="images/ninety-sw.png"></div><div class = "cell"></div><div class = "cell"></div><div class = "cell"><img src = "images/gauge-top-190.png"></div>
+
+
+
+        </div>
+        <div class="row">
+            <div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"><img src="images/ninety-ne.png"></div><div class="cell"><img src="images/straight-h.png"></div><div class="cell"><img src="images/straight-h.png"></div><div class="cell"><img src = "images/gauge-0.png"></div>
+
+        </div>
+        <div class="row">
             <div class="cell"></div>
-            <div class="cell"></div>
+
+        </div>
+        <div class="row">
+            <div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"><img src = "images/gauge-top-190.png"></div>
+
+        </div>
+        <div class="row">
+            <div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"><img src="images/ninety-es.png"></div><div class="cell"><img src="images/straight-h.png"></div><div class="cell"><img src="images/straight-h.png"></div><div class="cell"><img src = "images/gauge-0.png"></div>
         </div>
 
         <div class="row">
-            <div class="cell"><img src="images/valve-closed.png"></div>
-            <div class="cell"></div>
-            <div class="cell"></div>
+            <div class="cell"><img src="images/valve-closed.png"></div><div class = "cell"><img src="images/straight-h.png"></div><div class="cell"><img src="images/straight-h.png"></div><div class = "cell"><img src="images/ninety-wn.png"></div><div class = "cell"></div><div class = "cell"></div><div class = "cell"></div>
         </div>
     </div>
     <p>

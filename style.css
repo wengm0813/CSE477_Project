@@ -57,12 +57,14 @@ input[type="submit"]{
 
 input[type="radio"]{
     position: relative;
-    margin: auto;
+    margin-left: -5px;
+    margin-right: 15px;
     left: 85px;
 }
 
 div.pic{
     position: relative;
-    margin-left: 20px;
-    left: 85px;
+    margin-left: 0;
+    margin-right: 0;
+    left: 80px;
 }

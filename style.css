@@ -58,7 +58,6 @@ input[type="submit"]{
 input[type="radio"]{
     position: relative;
     margin: auto;
-
     left: 85px;
 }
 

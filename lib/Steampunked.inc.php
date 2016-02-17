@@ -11,13 +11,10 @@ require __DIR__ . "/../vendor/autoload.php";
 // Start the PHP session
 session_start();
 
-define("STEAMPUNKED_SESSION", 'guess');
+define("STEAMPUNKED_SESSION", 'steampunked');
 
-if(isset($_GET['name1']) && isset($_GET['name2']))
-{
+if(!isset($_SESSION[STEAMPUNKED_SESSION])) {
     $_SESSION[STEAMPUNKED_SESSION] = new Steampunked\Steampunked(time());
 }
 
-
-
-$guessing = $_SESSION[GUESSING_SESSION];
+$steampunked = $_SESSION[STEAMPUNKED_SESSION];

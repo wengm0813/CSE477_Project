@@ -6,10 +6,10 @@
  * Time: 4:08 PM
  */
 
-namespace Guessing;
+namespace Steampunked;
 
 
-class GuessingController
+class SteampunkedController
 {
 
 }

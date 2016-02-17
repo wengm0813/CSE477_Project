@@ -15,7 +15,7 @@
 </header>
 
 <div class = "intro">
-<form method="post" action="">
+<form method="post" action="Steampunked-post.php">
     <p>Player1 Name:
     <input type="text" name="name1"></p>
 

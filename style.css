@@ -17,6 +17,8 @@ div.game {
     margin: 1em auto;
     border: thin solid black;
     padding: 1em 0;
+    position: relative;
+    left: 20%;
 }
 
 div.game div.row {
@@ -24,10 +26,10 @@ div.game div.row {
     padding: 0;
     height: 50px;
     white-space: nowrap;
+
 }
 
 div.game div.cell {
-
     display: inline-block;
     vertical-align: top;
     padding: 0;
@@ -67,4 +69,12 @@ div.pic{
     margin-left: 0;
     margin-right: 0;
     left: 80px;
+}
+
+.message{
+    font-size: 30px;
+    position: relative;
+    left: 25%;
+    margin-top: -5px;
+    margin-bottom: -5px;
 }

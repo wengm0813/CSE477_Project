@@ -44,6 +44,7 @@ require __DIR__ . '/lib/Steampunked.inc.php';
             <div class="cell"><img src="images/valve-closed.png"></div><div class = "cell"><img src="images/straight-h.png"></div><div class="cell"><img src="images/straight-h.png"></div><div class = "cell"><img src="images/ninety-wn.png"></div><div class = "cell"></div><div class = "cell"></div><div class = "cell"></div>
         </div>
     </div>
+    <p class="message">Player 1, you have won!</p>
     <p>
         <label>
             <div class="pic">

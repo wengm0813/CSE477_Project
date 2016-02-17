@@ -46,14 +46,15 @@ require __DIR__ . '/lib/Steampunked.inc.php';
     </div>
     <p>
         <label>
-            <input type="radio" name="pipe" value="small" />
-            <img src="images/straight-h.png">
+            <div class="pic">
+                <input type="radio" name="pipe" value="small" />
+                <img src="images/ninety-es.png"><input type="radio" name="pipe" value="small" />
+                <img src="images/straight-h.png"><input type="radio" name="pipe" value="small" />
+                <img src="images/tee-esw.png"><input type="radio" name="pipe" value="small" />
+                <img src="images/ninety-es.png"><input type="radio" name="pipe" value="small" />
+                <img src="images/cap-s.png"></div>
         </label>
-        <label>
-            <input type="radio" name="pipe" value="small" />
-            <img src="images/ninety-es.png">
-        </label>
-     </p>
+    </p>
     <p>
     <input type="submit" name="leak" value="Rotate">
     <input type="submit" name="leak" value="Discard">

@@ -27,6 +27,7 @@ div.game div.row {
 }
 
 div.game div.cell {
+
     display: inline-block;
     vertical-align: top;
     padding: 0;
@@ -46,4 +47,23 @@ div.cell input {
     font-size: 0;
     line-height: 0;
     display: block;
+}
+
+input[type="submit"]{
+    position: relative;
+    margin: -15px 15px 15px 15px;
+    left: 100px;
+}
+
+input[type="radio"]{
+    position: relative;
+    margin: auto;
+
+    left: 85px;
+}
+
+div.pic{
+    position: relative;
+    margin: auto;
+    left: 55px;
 }

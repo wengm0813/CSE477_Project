@@ -5,6 +5,13 @@
     margin-left: -300px;
 }
 
+div.intro {
+    position: absolute;
+    left: 50%;
+    margin-left: -100px;
+}
+
+
 div.game {
     display: inline-block;
     margin: 1em auto;
